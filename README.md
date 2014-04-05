@@ -2,7 +2,7 @@ ComingSoonPageBootstrapAquilla
 ==============================
 
 Free Coming Soon website page.
-
+\n
 Feature:
 1. Bootstrap 2.0.
 2. 6 Layout
