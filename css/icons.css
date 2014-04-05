@@ -1,0 +1,164 @@
+
+/* ##Social Icons
+-------------------------------------------------- */
+
+.social-links {
+	list-style: none;
+	margin: 0px 0px 10px 0px;	
+}
+.social-links li {	
+	background-color: #222;
+	-webkit-border-radius: 100%;
+	border-radius: 100%;	
+	margin-left: 10px;	
+	display: inline-block;	
+	-webkit-box-shadow: 0px 1px 1px rgba(255,255,255,0.3);
+	box-shadow: 0px 1px 1px rgba(255,255,255,0.3);	
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);	
+	opacity: 0.7;
+	text-indent: -9999px;
+	-webkit-transition: all .8s linear;
+	-moz-transition: all .8s linear;
+	-o-transition: all .8s linear;
+	-ms-transition: all .8s linear;
+	transition: all .8s linear;	
+}
+.social-links li:hover {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	opacity: 1;
+	-webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.7);
+	box-shadow: inset 0px 1px 1px rgba(0,0,0,0.7);
+}
+.social-links a {
+	width: 24px;
+	height: 24px;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	opacity: 0.7;
+	display: block;
+	-webkit-transition: all .4s linear;
+	-moz-transition: all .4s linear;
+	-o-transition: all .4s linear;
+	-ms-transition: all .4s linear;
+	transition: all .4s linear;	
+	padding: 4px;
+}
+.social-links a:hover {	
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	opacity: 1;
+}
+.social-links a.twitter {
+	background: url(icons/twitter.png) no-repeat center !important;	
+}
+.social-links a.twitter-old {
+	background: url(icons/twitter-old.png) no-repeat center !important;	
+}
+.social-links a.facebook {
+	background: url(icons/facebook.png) no-repeat center !important;	
+}
+.social-links a.dribbble {
+	background: url(icons/dribbble.png) no-repeat center !important;	
+}
+.social-links a.gplus {
+	background: url(icons/gplus.png) no-repeat center !important;	
+}
+.social-links a.pinterest {
+	background: url(icons/pinterest.png) no-repeat center !important;	
+}
+.social-links a.linkedin {
+	background: url(icons/linkedin.png) no-repeat center !important;	
+}
+.social-links a.youtube {
+	background: url(icons/youtube.png) no-repeat center !important;	
+}
+.social-links a.instagram {
+	background: url(icons/instagram.png) no-repeat center !important;	
+}
+.social-links a.behance {
+	background: url(icons/behance.png) no-repeat center !important;	
+}
+.social-links a.blogger {
+	background: url(icons/blogger.png) no-repeat center !important;	
+}
+.social-links a.deviantart {
+	background: url(icons/deviantart.png) no-repeat center !important;	
+}
+.social-links a.digg {
+	background: url(icons/digg.png) no-repeat center !important;	
+}
+.social-links a.dribbble {
+	background: url(icons/dribbble.png) no-repeat center !important;	
+}
+.social-links a.email {
+	background: url(icons/email.png) no-repeat center !important;	
+}
+.social-links a.flickr {
+	background: url(icons/flickr.png) no-repeat center !important;	
+}
+.social-links a.gplus2 {
+	background: url(icons/gplus2.png) no-repeat center !important;	
+}
+.social-links a.lastfm {
+	background: url(icons/lastfm.png) no-repeat center !important;	
+}
+.social-links a.like {
+	background: url(icons/like.png) no-repeat center !important;	
+}
+.social-links a.livejournal {
+	background: url(icons/livejournal.png) no-repeat center !important;	
+}
+.social-links a.myspace {
+	background: url(icons/myspace.png) no-repeat center !important;	
+}
+.social-links a.myspace2 {
+	background: url(icons/myspace2.png) no-repeat center !important;	
+}
+.social-links a.orkut {
+	background: url(icons/orkut.png) no-repeat center !important;	
+}
+.social-links a.paypal {
+	background: url(icons/paypal.png) no-repeat center !important;	
+}
+.social-links a.picasa {
+	background: url(icons/picasa.png) no-repeat center !important;	
+}
+.social-links a.reddit {
+	background: url(icons/reddit.png) no-repeat center !important;	
+}
+.social-links a.rss {
+	background: url(icons/rss.png) no-repeat center !important;	
+}
+.social-links a.sharethis {
+	background: url(icons/sharethis.png) no-repeat center !important;	
+}
+.social-links a.skype {
+	background: url(icons/skype.png) no-repeat center !important;	
+}
+.social-links a.soundcloud {
+	background: url(icons/soundcloud.png) no-repeat center !important;	
+}
+.social-links a.spotify {
+	background: url(icons/spotify.png) no-repeat center !important;	
+}
+.social-links a.stumbleupon {
+	background: url(icons/stumbleupon.png) no-repeat center !important;	
+}
+.social-links a.tumblr {
+	background: url(icons/tumblr.png) no-repeat center !important;	
+}
+.social-links a.vimeo {
+	background: url(icons/vimeo.png) no-repeat center !important;	
+}
+.social-links a.wordpress {
+	background: url(icons/wordpress.png) no-repeat center !important;	
+}
+.social-links a.addthis {
+	background: url(icons/addthis.png) no-repeat center !important;	
+}
+
+
+
+ /* Author by : Ardhitya Wiedha Irawan ardhityawiedhairawan@gmail.com @papap_aila www.gulangguling.com */
