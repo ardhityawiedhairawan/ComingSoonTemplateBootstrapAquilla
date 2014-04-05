@@ -1,5 +1,4 @@
 <h1>Aquilla - Coming Soon Template </h1>
-==============================
 This is a Free Coming Soon Template.
 
 <h1>Feature List: </h1>
@@ -23,3 +22,6 @@ This is a Free Coming Soon Template.
  
 
  
+
+<br/>
+   <h2><a href="http://demo.gulangguling.com/aquilla/";>Demo</a></h2>
