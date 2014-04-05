@@ -1,4 +1,4 @@
-<h1>Aquilla - Coming Soon Page </h1>
+<h1>Aquilla - Coming Soon Template </h1>
 ==============================
 This is a Free Coming Soon Template.
 
